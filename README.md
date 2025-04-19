@@ -1,6 +1,6 @@
 # Hi, I'm Yuva Prakash Sai Gunupuru! 👋
 
-A Computer Science graduate and a passionate Full Stack Developer currently working at Reacredence IT Solutions. I'm deeply interested in building AI agents, exploring DevOps, and developing secure, end-to-end web applications. I love solving problems, learning new technologies, and contributing to meaningful projects.
+A Computer Science graduate and a passionate Full Stack Developer currently working at Reacredence IT Solutions. I'm deeply interested in developing secure, end-to-end web applications, exploring Cybersecurity tools, and building AI agents. I love solving problems, learning new technologies, and contributing to meaningful projects.
 
 ---
 
@@ -28,9 +28,9 @@ A Computer Science graduate and a passionate Full Stack Developer currently work
 
 **Backend**  
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
 
 **Database & Tools**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
