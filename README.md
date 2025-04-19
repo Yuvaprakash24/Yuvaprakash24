@@ -5,9 +5,9 @@ A Computer Science graduate and a passionate Full Stack Developer currently work
 ---
 
 ### 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuva-prakash/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/YuvaGunupuru)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://yuva-prakash.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuvaprakashsai-gunupuru/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/iam_yuvi24)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://yuvaprakashsai-portfolio.web.app/)
 
 ---
 
@@ -42,14 +42,14 @@ A Computer Science graduate and a passionate Full Stack Developer currently work
 ### 📈 GitHub Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuva-prakash&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yuva-prakash&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yuvaprakash24&theme=radical)
 
 ---
 
 ### 🚀 Projects
 - 🔗 [**ResearchNest**](https://researchnest.vercel.app/) – Academic file management app with secure access control and tagging.
-- 🔗 [**WellNest**](https://github.com/yuva-prakash/wellnest) – Mental health support platform for connecting users to therapists.
-- 🔗 [**Traveller**](https://traveller-delta.vercel.app/) – Travel destination discovery web app using React.js + Vite.
+- 🔗 [**WellNest**](https://wellnest-project.netlify.app/) – Mental health support platform for users.
+- 🔗 [**Traveller**](https://yuvis-traveller-delta.vercel.app/) – Travel destination discovery web app using Django + PostgreSQL.
 
 ---
 
