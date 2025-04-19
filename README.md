@@ -52,7 +52,7 @@ A Computer Science graduate and a passionate Full Stack Developer currently work
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yuvaprakash24&theme=radical" height="200" />
-  <img src="https://codechef-api.vercel.app/handle/yuvaprakash/rating-graph?theme=night" height="200" />
+  <img src="https://codechef-readme-stats.vercel.app/api/user?username=yuvaprakash&theme=dark" height="200" />
 </p>
 
 ---
