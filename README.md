@@ -1,16 +1,71 @@
-## Hi there 👋
+# Hi, I'm Yuva Prakash Sai Gunupuru! 👋
 
-<!--
-**Yuvaprakash24/Yuvaprakash24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A Computer Science graduate and a passionate Full Stack Developer currently working at Reacredence IT Solutions. I'm deeply interested in building AI agents, exploring DevOps, and developing secure, end-to-end web applications. I love solving problems, learning new technologies, and contributing to meaningful projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuva-prakash/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/YuvaGunupuru)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://yuva-prakash.vercel.app/)
+
+---
+
+### 🛠️ Tech Stack:
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+
+**Frontend**  
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+**Backend**  
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask)
+
+**Database & Tools**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 📈 GitHub Stats:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuva-prakash&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yuva-prakash&theme=radical)
+
+---
+
+### 🚀 Projects
+- 🔗 [**ResearchNest**](https://researchnest.vercel.app/) – Academic file management app with secure access control and tagging.
+- 🔗 [**WellNest**](https://github.com/yuva-prakash/wellnest) – Mental health support platform for connecting users to therapists.
+- 🔗 [**Traveller**](https://traveller-delta.vercel.app/) – Travel destination discovery web app using React.js + Vite.
+
+---
+
+### 🏆 Achievements
+- 🥇 Global Rank 16 in CodeChef Starters
+- 🔢 Solved 400+ DSA problems on LeetCode
+- 🧠 Started exploring AI Agents and DevOps (Current Role)
+
+---
+
+### 🎯 Goals
+- Build AI-powered full-stack applications
+- Gain expertise in DevOps tools and security
+- Explore real-time and scalable architectures
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
