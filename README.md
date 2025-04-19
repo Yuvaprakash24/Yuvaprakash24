@@ -51,8 +51,8 @@ A Computer Science graduate and a passionate Full Stack Developer currently work
 ### 📈 Github Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yuvaprakash24&theme=radical" height="200"/>
-  <img src="https://leetcard.jacoblin.cool/yuvaprakash?ext=contest&theme=dark" height="200"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yuvaprakash24&theme=radical" height="300"/>
+  <!--<img src="https://leetcard.jacoblin.cool/yuvaprakash?ext=contest&theme=dark" height="200"/>-->
 </p>
 
 ---
