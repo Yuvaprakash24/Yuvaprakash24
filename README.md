@@ -56,8 +56,8 @@ A Computer Science graduate and a passionate Full Stack Developer currently work
 ---
 
 ### 📈 Leetcode Stats:
-<!-- ![LeetCode Stats](https://leetcard.jacoblin.cool/yuvaprakash?theme=dark) -->
-![LeetCode Stats](https://leetcard.jacoblin.cool/yuvaprakash?ext=contest&theme=dark)
+![LeetCode Stats](https://leetcard.jacoblin.cool/yuvaprakash?theme=dark) 
+<!-- ![LeetCode Stats](https://leetcard.jacoblin.cool/yuvaprakash?ext=contest&theme=dark) -->
 
 ---
 
