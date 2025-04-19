@@ -55,6 +55,13 @@ A Computer Science graduate and a passionate Full Stack Developer currently work
 
 ---
 
+### 📈 Leetcode Stats:
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvaprakash24&layout=compact&theme=radical&cache_seconds=1&exclude_repo=LBYH_Coursepage,LBYH_Updated_Login-Registerpage,LBYH_Mainpage,LBYH_Profilepage,LBYH_ourteam,LBYH_resetpage,LBYH_Videospage,LBYH,LBYH_Images,LBYH_contactus,LBYH_footer,LBYH_Navbar) -->
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/yuvaprakash?theme=dark)
+
+---
+
 ### 🚀 Projects
 - 🔗 [**ResearchNest**](https://researchnest.vercel.app/) – ResearchNest is a secure academic data management platform that allows users to upload, share, and organize their materials with advanced access controls, taggings and efficient data retrieval features.
 - 🔗 [**WellNest**](https://wellnest-project.netlify.app/) – A compassionate mental health platform offering virtual therapy, support groups, and wellness tools to empower your emotional well-being.
