@@ -40,7 +40,7 @@ A Computer Science graduate and a passionate Full Stack Developer currently work
 ---
 
 ### 📈 GitHub Stats:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuva-prakash&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuvaprakash24&layout=compact&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yuvaprakash24&theme=radical)
 
