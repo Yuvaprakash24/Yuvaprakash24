@@ -50,15 +50,10 @@ A Computer Science graduate and a passionate Full Stack Developer currently work
 
 ### 📈 Stats
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-
-  <!-- GitHub Streak Card -->
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yuvaprakash24&theme=radical" height="200" />
-
-  <!-- LeetCode Card -->
   <img src="https://codechef-api.vercel.app/handle/yuvaprakash/rating-graph?theme=night" height="200" />
-
-</div>
+</p>
 
 ---
 
