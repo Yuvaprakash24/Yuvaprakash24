@@ -54,9 +54,10 @@ A Computer Science graduate and a passionate Full Stack Developer currently work
 ---
 
 ### 🚀 Projects
-- 🔗 [**ResearchNest**](https://researchnest.vercel.app/) – Academic file management app with secure access control and tagging.
-- 🔗 [**WellNest**](https://wellnest-project.netlify.app/) – Mental health support platform for users.
-- 🔗 [**Traveller**](https://yuvis-traveller-delta.vercel.app/) – Travel destination discovery web app using Django + PostgreSQL.
+- 🔗 [**ResearchNest**](https://researchnest.vercel.app/) – ResearchNest is a secure academic data management platform that allows users to upload, share, and organize their materials with advanced access controls, taggings and efficient data retrieval features.
+- 🔗 [**WellNest**](https://wellnest-project.netlify.app/) – A compassionate mental health platform offering virtual therapy, support groups, and wellness tools to empower your emotional well-being.
+- 🔗 [**Traveller**](https://yuvis-traveller-delta.vercel.app/) – A smart travel discovery web app helping users explore destinations with ease and inspiration.
+- 🔗 [**EZ-Foods**](https://yuvis-ez-foods.netlify.app/) – A seamless food delivery platform connecting users with local restaurants for quick and easy ordering.
 
 ---
 
