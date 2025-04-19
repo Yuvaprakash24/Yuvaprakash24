@@ -48,16 +48,12 @@ A Computer Science graduate and a passionate Full Stack Developer currently work
 
 ---
 
-### 📈 GitHub Stats:
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvaprakash24&layout=compact&theme=radical&cache_seconds=1&exclude_repo=LBYH_Coursepage,LBYH_Updated_Login-Registerpage,LBYH_Mainpage,LBYH_Profilepage,LBYH_ourteam,LBYH_resetpage,LBYH_Videospage,LBYH,LBYH_Images,LBYH_contactus,LBYH_footer,LBYH_Navbar) -->
+### 📈 Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yuvaprakash24&theme=radical)
-
----
-
-### 📈 Leetcode Stats:
-![LeetCode Stats](https://leetcard.jacoblin.cool/yuvaprakash?theme=dark) 
-<!-- ![LeetCode Stats](https://leetcard.jacoblin.cool/yuvaprakash?ext=contest&theme=dark) -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yuvaprakash24&theme=radical" height="200"/>
+  <img src="https://leetcard.jacoblin.cool/yuvaprakash?theme=dark" height="200"/>
+</div>
 
 ---
 
