@@ -68,14 +68,7 @@ A Computer Science graduate and a passionate Full Stack Developer currently work
 ### 🏆 Achievements
 - 🥇 Global Rank 16 in CodeChef Starters
 - 🔢 Solved 400+ DSA problems on LeetCode
-- 🧠 Started exploring AI Agents and DevOps (Current Role)
-
----
-
-### 🎯 Goals
-- Build AI-powered full-stack applications
-- Gain expertise in DevOps tools and security
-- Explore real-time and scalable architectures
+- 🧠 Built & Deployed Full-Stack Projects end-to-end 
 
 ---
 
