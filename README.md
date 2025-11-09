@@ -1,5 +1,4 @@
 # Hi, I'm Yuva Prakash Sai Gunupuru! 👋
-![Profile Views](https://komarev.com/ghpvc/?username=Yuvaprakash24&color=blue&style=flat)
 
 A Computer Science graduate and a passionate Full Stack Developer currently working at Reacredence IT Solutions. I'm deeply interested in developing secure, end-to-end web applications, exploring Cybersecurity tools, and building AI agents. I love solving problems, learning new technologies, and contributing to meaningful projects.
 
