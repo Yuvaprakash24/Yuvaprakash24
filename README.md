@@ -125,17 +125,12 @@ Passionate about building <b>AI-powered systems, intelligent agents, and scalabl
 # 📊 GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yuvaprakash24&theme=radical"/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Yuvaprakash24&show_icons=true&theme=radical"/>
-
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Yuvaprakash24&theme=radical"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Yuvaprakash24&show_icons=true&theme=radical"/>
 </p>
 
-# 📈 Contribution Graph
-
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yuvaprakash24&theme=react-dark"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yuvaprakash24&theme=radical"/>
 </p>
 ---
 
