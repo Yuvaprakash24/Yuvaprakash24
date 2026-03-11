@@ -130,7 +130,7 @@ Passionate about building <b>AI-powered systems, intelligent agents, and scalabl
 
 <img src="https://github-readme-stats.vercel.app/api?username=Yuvaprakash24&show_icons=true&theme=radical"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvaprakash24&layout=compact&theme=radical"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yuvaprakash24&theme=react-dark"/>
 
 </p>
 
