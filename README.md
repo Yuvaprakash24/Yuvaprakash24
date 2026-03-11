@@ -125,7 +125,7 @@ Passionate about building <b>AI-powered systems, intelligent agents, and scalabl
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Yuvaprakash24&theme=radical&no-frame=true&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Yuvaprakash24&no-frame=true&margin-w=10"/>
 </p>
 
 # 📈 GitHub Stats
