@@ -1,76 +1,169 @@
-# Hi, I'm Yuva Prakash Sai Gunupuru! 👋
+<!-- PROFILE HEADER -->
 
-A Computer Science graduate and a passionate Full Stack Developer currently working at Reacredence IT Solutions. I'm deeply interested in developing secure, end-to-end web applications, exploring Cybersecurity tools, and building AI agents. I love solving problems, learning new technologies, and contributing to meaningful projects.
-
----
-
-### 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuvaprakashsai-gunupuru/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/iam_yuvi24)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://yuvaprakashsai-portfolio.web.app/)
-
----
-
-### 🛠️ Tech Stack:
-**Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-
-**Frontend**  
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=mui&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-
-**Backend**  
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
-
-**Database & Tools**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiIgdmlld0JveD0iMCAwIDEyIDEyIj48cGF0aCBkPSJNMSAxLjQxN2w5Ljg4MiA0LjQ2NGEuNzUuNzUgMCAwIDEgMCAxLjM0OEwxIDExLjYzN1oiIGZpbGw9IndoaXRlIi8+PC9zdmc+&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-
----
-
-### 📈 Github Stats
+<h1 align="center">Hi 👋, I'm Yuva Prakash Sai Gunupuru</h1>
+<h3 align="center">AI Engineer | Full Stack Developer | AI Agent Builder</h3>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yuvaprakash24&theme=radical" height="300"/>
-  <!--<img src="https://leetcard.jacoblin.cool/yuvaprakash?ext=contest&theme=dark" height="200"/>-->
+Passionate about building <b>AI-powered systems, intelligent agents, and scalable web applications</b>.
+</p>
+
+<p align="center">
+<a href="https://github.com/Yuvaprakash24">
+<img src="https://komarev.com/ghpvc/?username=Yuvaprakash24&label=Profile%20Views&color=0e75b6&style=flat"/>
+</a>
 </p>
 
 ---
 
-### 🚀 Projects
-- 🔗 [**ResearchNest**](https://researchnest.vercel.app/) – ResearchNest is a secure academic data management platform that allows users to upload, share, and organize their materials with advanced access controls, taggings and efficient data retrieval features.
-- 🔗 [**WellNest**](https://wellnest-project.netlify.app/) – A compassionate mental health platform offering virtual therapy, support groups, and wellness tools to empower your emotional well-being.
-- 🔗 [**Traveller**](https://yuvis-traveller-delta.vercel.app/) – A smart travel discovery web app helping users explore destinations with ease and inspiration.
-- 🔗 [**EZ-Foods**](https://yuvis-ez-foods.netlify.app/) – A seamless food delivery platform connecting users with local restaurants for quick and easy ordering.
+# 🚀 About Me
+
+* 💼 AI Engineer at **Reacredence IT Solutions**
+* 🤖 Building **AI Agents, LLM applications & automation systems**
+* 🔬 Interested in **AI Infrastructure, LLM inference, and agent orchestration**
+* 🌐 Experienced in **Full Stack Development**
+* 🧠 Solved **400+ DSA problems on LeetCode**
+* 🏆 **Global Rank 16 in CodeChef Starters**
 
 ---
 
-### 🏆 Achievements
-- 🥇 Global Rank 16 in CodeChef Starters
-- 🔢 Solved 400+ DSA problems on LeetCode
-- 🧠 Built & Deployed Full-Stack Projects end-to-end 
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/yuvaprakashsai-gunupuru/" target="blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://twitter.com/iam_yuvi24" target="blank">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white"/>
+</a>
+
+<a href="https://yuvaprakashsai-portfolio.web.app/" target="blank">
+<img src="https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+# 🧠 AI / LLM Engineering
 
+![LangChain](https://img.shields.io/badge/LangChain-black)
+![LangGraph](https://img.shields.io/badge/LangGraph-red)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai\&logoColor=white)
+![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-FF9900?logo=amazonaws\&logoColor=white)
+![vLLM](https://img.shields.io/badge/vLLM-black)
+![AI Agents](https://img.shields.io/badge/AI_Agents-purple)
+
+* Built **AI agents using LangGraph & LangChain**
+* Experience with **LLM inference (vLLM, Qwen, OpenAI APIs)**
+* Developed **AI chatbots and automation systems**
+* Implemented **tool calling and agent orchestration**
+* Worked with **multimodal models (text + audio)**
+
+---
+
+# 🛠️ Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?logo=java\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript\&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus\&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?logo=c\&logoColor=white)
+
+---
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js)
+![Material UI](https://img.shields.io/badge/Material_UI-0081CB?logo=mui\&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3\&logoColor=white)
+
+---
+
+### Backend
+
+![Django](https://img.shields.io/badge/Django-092E20?logo=django\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-black?logo=flask)
+![NodeJS](https://img.shields.io/badge/NodeJS-339933?logo=node.js\&logoColor=white)
+
+---
+
+### Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql\&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql\&logoColor=white)
+
+---
+
+### DevOps & Cloud
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker\&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes\&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-black?logo=vercel)
+
+---
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?logo=git\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code\&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-black)
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yuvaprakash24&theme=radical"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Yuvaprakash24&show_icons=true&theme=radical"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvaprakash24&layout=compact&theme=radical"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### 🔗 ResearchNest
+
+Secure academic research management platform with **role-based access control, tagging system, and document management**.
+
+### 🔗 WellNest
+
+Mental health platform offering **virtual therapy, wellness tracking, and support communities**.
+
+### 🔗 Traveller
+
+Travel discovery platform helping users **explore destinations with curated recommendations**.
+
+### 🔗 EZ-Foods
+
+Food delivery platform connecting users with **local restaurants for quick ordering**.
+
+---
+
+# 🐍 GitHub Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+# 💡 Quote
+
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
