@@ -130,7 +130,7 @@ Passionate about building <b>AI-powered systems, intelligent agents, and scalabl
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yuvaprakash24&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yuvaprakash24&theme=github-light"/>
 </p>
 ---
 
