@@ -1,7 +1,7 @@
 <!-- PROFILE HEADER -->
 
 <h1 align="center">Hi 👋, I'm Yuva Prakash Sai Gunupuru</h1>
-<h3 align="center">AI Engineer | Full Stack Developer | AI Agent Builder</h3>
+<h3 align="center">AI Engineer | Software Development Engineer (SDE) | Full Stack Developer</h3>
 
 <p align="center">
 Passionate about building <b>AI-powered systems, intelligent agents, and scalable web applications</b>.
